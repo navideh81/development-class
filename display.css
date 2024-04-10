@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+.nav{
+    background-color:rgb(182, 143, 218);
+    width: 200px;
+
+}
+.nav u1 li{
+   display: inline;
+}
+.left{
+    background-color: rgb(242, 184, 37) ;
+    border: 1px solid black;
+   /* width: 400px;
+    height: 50px;*/
+   display: inline;
+}
+.middle{ 
+    background-color: rgb(132, 98, 13) ;
+    border: 1px solid black;
+   /* width: 400px;
+    height:50px ;*/
+    display:inline;
+}
+.right{
+    background-color: rgb(69, 52, 12) ;
+    border: 1px solid black;
+   /* width: 400px; ;
+    height: 50px; ;*/
+    display:inline;
+}
